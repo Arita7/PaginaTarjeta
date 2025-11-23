@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#tarjeta{
+    width: 400px;
+    height: 600px;
+    background-color: orangered;
+}
+
+#h1{
+    width: 400px;
+
+}
+
+#h2{
+    width: 100px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+#p1{
+
+}
+
+b1{
+    
+}
